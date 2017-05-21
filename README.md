@@ -3,7 +3,7 @@ Arduino code and schematic to sweep a servo 90 degrees on a rising/falling edge
 
 # 1. Setup the Arduino with the servo
 
-![](schematic)
+![](schematic.png)
 
 # 2. Download and install Arduino software
 
